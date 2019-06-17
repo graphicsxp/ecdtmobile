@@ -1,0 +1,7 @@
+{
+  "appId": "com.cdt.ecdtmobile",
+  "appName": "ecdt-mobile",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

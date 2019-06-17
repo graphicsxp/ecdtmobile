@@ -1,5 +1,8 @@
 {
   "name": "ecdt-mobile",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
